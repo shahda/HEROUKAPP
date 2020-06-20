@@ -42,7 +42,7 @@ public class BaseAPI {
 
     public static void assertResponseStatus(Integer statusCode) {
         Assert.assertEquals(endpoint + " has failed, expected: ", statusCode, BaseAPI.statusCode);
-        logger.info("\n Api resource path " +endpoint + " status: " + BaseAPI.statusCode + "\n");
+        logger.info("\n Api resource path " + endpoint + " status: " + BaseAPI.statusCode + "\n");
     }
 
     public static void assertJsonAttributeGetResponse(String attribute, String expectedValue) {
