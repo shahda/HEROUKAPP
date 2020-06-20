@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="28" failures="0" name="assesment.cucumber.TestRunner" time="25.913" errors="0" skipped="0">
+<testsuite tests="28" failures="0" name="assesment.cucumber.TestRunner" time="10.699" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2018.1.3"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -76,18 +76,18 @@
   <testcase classname="Scenario: Get Instructions" name="Scenario: Get Instructions" time="0"/>
   <testcase classname="| 1000 |" name="When the request is performed using user id \&quot;1000\&quot;" time="0"/>
   <testcase classname="| 1000 |" name="Then response should be 200" time="0"/>
-  <testcase classname="| 1000 |" name="And the response includes the correct \&quot;1000\&quot;" time="0.001"/>
-  <testcase classname="| 1000 |" name="| 1000 |" time="0.004"/>
-  <testcase classname="| 800 |" name="When the request is performed using user id \&quot;800\&quot;" time="0"/>
+  <testcase classname="| 1000 |" name="And the response includes the correct \&quot;1000\&quot;" time="0"/>
+  <testcase classname="| 1000 |" name="| 1000 |" time="0.001"/>
+  <testcase classname="| 800 |" name="When the request is performed using user id \&quot;800\&quot;" time="0.001"/>
   <testcase classname="| 800 |" name="Then response should be 200" time="0"/>
   <testcase classname="| 800 |" name="And the response includes the correct \&quot;800\&quot;" time="0"/>
   <testcase classname="| 800 |" name="| 800 |" time="0"/>
   <testcase classname="| 500 |" name="When the request is performed using user id \&quot;500\&quot;" time="0"/>
   <testcase classname="| 500 |" name="Then response should be 200" time="0"/>
   <testcase classname="| 500 |" name="And the response includes the correct \&quot;500\&quot;" time="0"/>
-  <testcase classname="| 500 |" name="| 500 |" time="0.001"/>
+  <testcase classname="| 500 |" name="| 500 |" time="0.003"/>
   <testcase classname="Scenario: Get user by ID" name="When the request is performed to get all users" time="0"/>
   <testcase classname="Scenario: Get user by ID" name="Then response should be 200" time="0"/>
   <testcase classname="Scenario: Get user by ID" name="And the response does not include null id field" time="0"/>
-  <testcase classname="Scenario: Get user by ID" name="Scenario: Get user by ID" time="0.001"/>
+  <testcase classname="Scenario: Get user by ID" name="Scenario: Get user by ID" time="0.002"/>
 </testsuite>

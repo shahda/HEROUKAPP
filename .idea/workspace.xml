@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3f904e0-bbb6-4ed1-b7b5-e0ea64752862" name="Default" comment="" />
+    <list default="true" id="f3f904e0-bbb6-4ed1-b7b5-e0ea64752862" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-assesment.cucumber.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-assesment.cucumber.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/assesment.cucumber.TestRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/assesment.cucumber.TestRunner.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,42 +20,24 @@
       <file leaf-file-name="extent-config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extent-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="104">
               <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TechnicalTestSteps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heroukapp/technical-tester-assessment/src/test/java/assesment/steps/TechnicalTestSteps.java">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1279" />
+            <state relative-caret-position="-429" />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TechnicalTestStep.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heroukapp/technical-tester-assessment/src/test/resources/Features/TechnicalTestStep.feature">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseAPI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heroukapp/technical-tester-assessment/src/test/java/assesment/base/BaseAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/heroukapp/technical-tester-assessment/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="242">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -70,6 +57,7 @@
       <list>
         <option value="$PROJECT_DIR$/extent-config.xml" />
         <option value="$PROJECT_DIR$/heroukapp/technical-tester-assessment/src/test/java/assesment/base/BaseAPI.java" />
+        <option value="$PROJECT_DIR$/config.properties" />
       </list>
     </option>
   </component>
@@ -112,34 +100,17 @@
             <path>
               <item name="heroukapp-tester-assessment" type="b2602c69:ProjectViewProjectNode" />
               <item name="HEROUKAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="heroukapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heroukapp-tester-assessment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HEROUKAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="heroukapp" type="462c0819:PsiDirectoryNode" />
-              <item name="technical-tester-assessment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heroukapp-tester-assessment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HEROUKAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="heroukapp" type="462c0819:PsiDirectoryNode" />
-              <item name="technical-tester-assessment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="heroukapp-tester-assessment" type="b2602c69:ProjectViewProjectNode" />
               <item name="HEROUKAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="heroukapp" type="462c0819:PsiDirectoryNode" />
-              <item name="technical-tester-assessment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="heroukapp-tester-assessment" type="b2602c69:ProjectViewProjectNode" />
               <item name="HEROUKAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="heroukapp" type="462c0819:PsiDirectoryNode" />
-              <item name="technical-tester-assessment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -147,38 +118,17 @@
             <path>
               <item name="heroukapp-tester-assessment" type="b2602c69:ProjectViewProjectNode" />
               <item name="HEROUKAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="heroukapp" type="462c0819:PsiDirectoryNode" />
-              <item name="technical-tester-assessment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="assesment" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="heroukapp-tester-assessment" type="b2602c69:ProjectViewProjectNode" />
               <item name="HEROUKAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="heroukapp" type="462c0819:PsiDirectoryNode" />
-              <item name="technical-tester-assessment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="assesment" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heroukapp-tester-assessment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HEROUKAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="heroukapp" type="462c0819:PsiDirectoryNode" />
-              <item name="technical-tester-assessment" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heroukapp-tester-assessment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HEROUKAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="heroukapp" type="462c0819:PsiDirectoryNode" />
-              <item name="technical-tester-assessment" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="cucumber-reports" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,6 +156,17 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Feature: TechnicalTestStep" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="heroukapp-tester-assessment" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -245,6 +206,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: TechnicalTestStep" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -261,7 +227,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -269,13 +234,13 @@
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50064266" side_tool="true" weight="0.29403606" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.32969153" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.49375868" />
       <window_info anchor="bottom" id="Version Control" weight="0.32871014" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4993573" visible="true" weight="0.29403606" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4993573" visible="true" weight="0.48821083" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31619537" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31619537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -308,13 +273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extent-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/heroukapp/technical-tester-assessment/src/test/java/assesment/steps/TechnicalTestSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1279" />
@@ -338,6 +296,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extent-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
