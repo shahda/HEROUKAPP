@@ -10,10 +10,10 @@
         <protocol>https</protocol>
 
         <!-- title of the document -->
-        <documentTitle>cmg-cps integration-tests report</documentTitle>
+        <documentTitle>Assement-tests report</documentTitle>
 
         <!-- report name - displayed at top-nav -->
-        <reportName>cmg-cps integration-tests Report</reportName>
+        <reportName>Assement integration-tests Report</reportName>
 
         <!-- global date format override -->  <!-- defaults to yyyy-MM-dd -->
         <dateFormat>yyyy-MM-dd</dateFormat>
