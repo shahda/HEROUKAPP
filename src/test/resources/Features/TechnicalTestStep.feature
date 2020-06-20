@@ -5,7 +5,7 @@ Feature: HEROKUAPP
   Scenario Outline: Get Users by City
     When the request is performed using city "<city>"
     Then response should be 200
-    And the response includes the correct data "<city>"
+    And verify that the response includes the data for "<city>"
 
     Examples:
       | city    |
@@ -22,7 +22,7 @@ Feature: HEROKUAPP
   Scenario Outline: Get user by ID
     When the request is performed using user id "<id>"
     Then response should be 200
-    And the response includes the correct "<id>"
+    And the response includes the correct id "<id>"
     Examples:
       | id    |
       |1000|
@@ -30,7 +30,7 @@ Feature: HEROKUAPP
       |500|
 
   @getAllUsers
-  Scenario: Get user by ID
+  Scenario: Get all users
     When the request is performed to get all users
     Then response should be 200
     And the response does not include null id field

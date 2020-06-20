@@ -1,4 +1,4 @@
-package assesment.cucumber;
+package assessment.cucumber;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.SnippetType;
@@ -9,8 +9,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions
 
         (features = "src/test/resources/Features", // Folder location of 'feature' files (relative to project root)
-                glue = {"assesment.steps", // Folder location containing 'steps' files (relative to project java root)
-                        "assesment.cucumber"
+                glue = {"assessment.steps", // Folder location containing 'steps' files (relative to project java root)
+                        "assessment.cucumber"
                 },
                 plugin = {"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"},
 

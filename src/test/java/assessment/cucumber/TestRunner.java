@@ -1,4 +1,4 @@
-package assesment.cucumber;
+package assessment.cucumber;
 
 import com.cucumber.listener.Reporter;
 import cucumber.api.CucumberOptions;

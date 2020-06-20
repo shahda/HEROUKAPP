@@ -1,4 +1,4 @@
-package assesment.cucumber;
+package assessment.cucumber;
 
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 
-import assesment.utils.ReadData;
+import assessment.utils.ReadData;
 
 public class cucumberHooks {
 

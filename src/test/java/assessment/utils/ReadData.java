@@ -1,4 +1,4 @@
-package assesment.utils;
+package assessment.utils;
 
 import java.io.File;
 import java.io.FileInputStream;

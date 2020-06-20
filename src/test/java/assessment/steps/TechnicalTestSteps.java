@@ -1,11 +1,11 @@
-package assesment.steps;
+package assessment.steps;
 
-import assesment.responses.UserIdResponse;
-import assesment.utils.ReadData;
+import assessment.responses.UserIdResponse;
+import assessment.utils.ReadData;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import assesment.base.BaseAPI;
+import assessment.base.BaseAPI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -23,7 +23,7 @@ public class TechnicalTestSteps {
         BaseAPI.getRequest(endpoint);
     }
 
-    @And ("the response includes the correct data \"([^\"]*)\"$")
+    @And ("verify that the response includes the data for \"([^\"]*)\"$")
     public void responseByCity(String city) throws IOException {
         BaseAPI.responseGet.prettyPrint();
         UserIdResponse.assertSuccesfullListUsersbyCity(city);
@@ -48,7 +48,7 @@ public class TechnicalTestSteps {
         BaseAPI.getRequest(endpoint);
     }
 
-    @When("the response includes the correct \"([^\"]*)\"$")
+    @When("the response includes the correct id \"([^\"]*)\"$")
     public void responseValidation(Integer id) throws IOException {
  //       BaseAPI.responseGet.prettyPrint();
         UserIdResponse.assertSuccesfullUserResponsebyId(id);
