@@ -17,7 +17,7 @@ import java.io.File;
 public class TestRunner extends BaseRunner {
     @AfterClass
     public static void writeExtentReport() {
-         Reporter.loadXMLConfig(new File("extent-config.xml"));
+        Reporter.loadXMLConfig(new File("extent-config.xml"));
         Reporter.setSystemInfo("Customer Name", System.getProperty("user.name"));
         Reporter.setSystemInfo("Time Zone", System.getProperty("user.timezone"));
         Reporter.setSystemInfo("Machine", System.getProperty("os.name"));

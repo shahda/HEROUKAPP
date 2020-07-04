@@ -67,12 +67,9 @@ public class TechnicalTestSteps {
         UserIdResponse.assertSuccesfullListUsers();
     }
 
-
     @Then("^response should be (\\d+)$")
     public void responseShouldBe(int statusCode) {
         BaseAPI.assertResponseStatus(statusCode);
         logger.info("Response is successful");
-
       }
-
 } //end of Class
